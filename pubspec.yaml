@@ -1,0 +1,51 @@
+name: job_listing_screens
+description: The app "JobScreen" is a Flutter project that lists job opportunities on two separate screens. The user is able to view the available jobs in different categories, and can easily switch between the screens to find the job they are looking for. The app has a clean and user-friendly interface that allows users to quickly scan through the job listings and access more detailed information about each job.
+
+
+publish_to: 'none'
+version: 1.0.0+1
+environment:
+  sdk: '>=3.0.0-192.0.dev <4.0.0'
+
+dependencies:
+  flutter:
+    sdk: flutter
+  cupertino_icons: ^1.0.5
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^2.0.1
+flutter:
+  uses-material-design: true
+
+  
+  
+  
+  
+
+  
+  
+
+  
+  
+
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
